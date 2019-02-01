@@ -1,2 +1,2 @@
-# maze
-Maze game
+# Maze
+Maze game created in C++.
